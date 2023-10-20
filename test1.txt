@@ -1,0 +1,8 @@
+entier a ;
+entier b ; 
+lire a ; 
+lire b ; 
+si ( 10 > b ) alors  
+ecrire a ; 
+sinon ;
+ecrire a ;
